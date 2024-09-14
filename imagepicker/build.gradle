@@ -50,6 +50,7 @@ dependencies {
 
     //More Info: https://github.com/Yalantis/uCrop
     implementation 'com.github.yalantis:ucrop:2.2.6'
+    implementation "io.github.lucksiege:compress:v3.11.2"
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
